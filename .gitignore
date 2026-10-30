@@ -1,0 +1,25 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+
+# Java / Maven
+target/
+build/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
